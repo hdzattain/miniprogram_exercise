@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/fruitsList/FruitsList",
+    "pages/Purchase/Purchase"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Fruits",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
